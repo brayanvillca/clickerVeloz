@@ -1,4 +1,4 @@
-```markdown
+Markdown
 # ClickerVeloz 🖱️⚡
 
 **¡Bienvenido a *ClickerVeloz*!** Un juego de reflejos y precisión creado con **Pygame** donde debes hacer clic en la tarjeta correcta antes de que se acabe el tiempo.
@@ -111,4 +111,4 @@ Este proyecto es de código abierto bajo la licencia **MIT**. ¡Siéntete libre 
 > **Tip**: Practica en modo fácil (aumenta `TIME_LIMIT` a 20) antes de retar a tus amigos.
 
 ---
-```
+
