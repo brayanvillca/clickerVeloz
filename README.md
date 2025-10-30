@@ -40,6 +40,32 @@ clickerveloz.py
 
 - **Python 3.6 o superior**
 - **Pygame** (`pip install pygame`)
+- **Si no te deja instalar modulos intenta creando un entorno venv:**
+
+### bash
+```bash
+python3 -m venv venv
+```
+### CMD
+```cmd
+cd /ruta/a/tu/proyecto/clickerVeloz
+```
+## Activa y desactiva tu entorno venv
+### bash
+```bash
+source venv/bin/activate
+
+#Para cerrar el entorno
+deactivate
+```
+### CMD
+```cmd
+venv\Scripts\activate
+
+#Para cerrar el entorno
+deactivate
+```
+### Ahora si puedes instalar modulos
 
 ---
 
@@ -83,14 +109,9 @@ Puedes modificar fácilmente:
 
 ---
 
-## 🖼️ Captura de Pantalla
+## Captura de Pantalla
 
-*(Puedes agregar una imagen aquí más adelante)*
-
-```markdown
-![Gameplay](screenshot.png)
-```
-
+<img src="screenshot.png" alt="Gameplay" width="600">
 ---
 
 ## 👨‍💻 Autor
